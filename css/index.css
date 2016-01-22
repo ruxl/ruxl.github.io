@@ -1,0 +1,230 @@
+.version.index /* version checker */
+{
+	color: #0000FA;
+	background-color: #75BA2A;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 2313px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	margin-bottom: -127px;
+	width: 0.01px;
+}
+
+#u79
+{
+	z-index: 2;
+	width: 386px;
+	background-color: transparent;
+	margin-left: 287px;
+	position: relative;
+}
+
+#u85-4
+{
+	z-index: 4;
+	width: 171px;
+	min-height: 42px;
+	background-color: transparent;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	margin-left: 395px;
+	position: relative;
+}
+
+#u97
+{
+	z-index: 10;
+	width: 171px;
+	height: 39px;
+	background-color: #5BFFA9;
+	border-radius: 33px;
+	margin-left: 395px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u97:hover
+{
+	background-color: #FFFFA9;
+	width: 171px;
+	height: 39px;
+	min-height: 0px;
+	margin: 6px 0px 0px 395px;
+}
+
+#u97:active
+{
+	background-color: #100030;
+	width: 171px;
+	height: 39px;
+	min-height: 0px;
+	margin: 6px 0px 0px 395px;
+}
+
+#u99
+{
+	z-index: 11;
+	width: 600px;
+	background-color: #FF5954;
+	padding-bottom: 1px;
+	margin-left: 20px;
+	margin-top: 952px;
+	position: relative;
+}
+
+#u100-4
+{
+	z-index: 12;
+	width: 375px;
+	min-height: 41px;
+	background-color: transparent;
+	font-size: 38px;
+	line-height: 46px;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 6px;
+}
+
+#u120
+{
+	z-index: 21;
+	width: 90px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 510px;
+}
+
+#shit
+{
+	margin-left: 857px;
+	top: -83px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
+#buttonu117
+{
+	z-index: 16;
+	width: 231px;
+	border-color: #787878;
+	background-color: #CACACA;
+	padding-bottom: 13px;
+	margin-left: 20px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#buttonu117:hover
+{
+	background-color: #545454;
+	width: 231px;
+	min-height: 0px;
+	margin: 0px 0px -1px 20px;
+}
+
+#buttonu117.ButtonSelected
+{
+	background-color: #CACACA;
+	width: 231px;
+	min-height: 0px;
+	margin: 0px 0px -1px 20px;
+}
+
+#u119-4
+{
+	z-index: 17;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: left;
+	letter-spacing: 1px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+}
+
+#buttonu117:hover #u119-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu117.ButtonSelected #u119-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu117:hover #u119-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu117.ButtonSelected #u119-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#u95
+{
+	z-index: 9;
+	width: 35px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1112px;
+	margin-top: 918px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
