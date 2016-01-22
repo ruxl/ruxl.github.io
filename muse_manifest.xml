@@ -1,7 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="rux.com" resolutions="1x" timestamp="1453487589360">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="rux.com" resolutions="1x" timestamp="1453492910032">
+  <folder name="assets">
+    <file name="ruxlog.png" crc="4173024310" seo="true" mt="1453486703000"/>
+    <file name="best-gta-v-video-yet..mp4" crc="4072043295" seo="true" mt="1453490466000"/>
+    <file name="zelda-wii-u-screenshot.jpg" crc="24498122" seo="true" mt="1420716328000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4202019370" ref="index"/>
+    <file name="index.css" crc="127083244" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -13,5 +18,5 @@
     <file name="ruxlog.png" crc="4173024310" seo="true" ref="index"/>
     <file name="ruxlog91x83.png" crc="3959609895" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="25168062" seo="true" mt="1453487573121" redirect="true"/>
+  <file name="index.html" crc="252253288" seo="true" mt="1453492903843" redirect="true"/>
 </manifest>
