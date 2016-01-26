@@ -19,21 +19,34 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://rux.com/images/ruxlog77x71.png</loc>
+    <lastmod>2016-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://rux.com/images/ruxlog.png</loc>
-    <lastmod>2016-01-22</lastmod>
+    <lastmod>2016-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rux.com/images/ruxlog91x83.png</loc>
-    <lastmod>2016-01-22</lastmod>
+    <lastmod>2016-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rux.com/images/sanbay-games.png</loc>
+    <lastmod>2016-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rux.com/index.html</loc>
-    <lastmod>2016-01-22</lastmod>
+    <lastmod>2016-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://rux.com/phone/index.html"/>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="rux.com" resolutions="1x" timestamp="1453495409820">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="rux.com" resolutions="1x" timestamp="1453832903406">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="400853210" ref="index"/>
+    <file name="index.css" crc="526119123" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ruxlog.png" crc="4173024310" seo="true" mt="1453486703000"/>
@@ -9,14 +9,27 @@
     <file name="zelda-wii-u-screenshot.jpg" crc="24498122" seo="true" mt="1420716328000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
-    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="ruxlog77x71.png" crc="62329565" seo="true" ref="phone>index"/>
     <file name="ruxlog.png" crc="4173024310" seo="true" ref="index"/>
     <file name="ruxlog91x83.png" crc="3959609895" seo="true" ref="index"/>
+    <file name="button-up.jpg" crc="4111018430" ref="index"/>
+    <file name="button-down.jpg" crc="3929500521" ref="index"/>
+    <file name="sanbay-games.png" crc="525239555" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="252253288" seo="true" mt="1453492903843" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4037962839" ref="phone>index"/>
+      <file name="index.css" crc="4134828442" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="433301778" seo="true" mt="1453503586008" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="493706896" seo="true" mt="1453832888377" redirect="true"/>
 </manifest>
